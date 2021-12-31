@@ -91,5 +91,6 @@ on (   A.c_br_code=jv_mst.c_br_code ) and
 	(  a.n_srno1=jv_mst.n_srno  )  
 	order by TRANNO
 
+	select gin
 
 
