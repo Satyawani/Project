@@ -1,0 +1,23 @@
+Database Repository:
+
+-->mkdir foldername
+-->cd foldername
+-->git clone https://github.com/Satyawani/repositoryname
+-->dir  : listing directory 
+-->cd repositoryname
+-->git status : display the status of the git file
+if you want to add file into the git make sure we need to store the file into the  repositoryfile 
+
+then we need to add file into repository by using following command
+
+-->git add Customer_trace.sql
+-->git commit -m "Added our 1st file"
+-->git push
+
+if we modify the any file that already upload into git repository  then the following command need to perform
+
+
+-->git add Customer_trace.sql
+-->git commit -m "Added our 1st file"
+-->git push
+
